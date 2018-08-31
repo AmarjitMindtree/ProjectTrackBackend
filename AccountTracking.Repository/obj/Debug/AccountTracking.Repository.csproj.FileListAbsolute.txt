@@ -1,0 +1,74 @@
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll.config
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.pdb
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.dll
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.pdb
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll.config
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.xml
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csprojResolveAssemblyReference.cache
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CoreCompileInputs.cache
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.dll
+C:\Users\m1006533\Documents\Visual Studio 2017\Projects\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll.config
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.dll
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.pdb
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll.config
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.xml
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csprojAssemblyReference.cache
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CoreCompileInputs.cache
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CopyComplete
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.dll
+D:\ProjectTrack\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll.config
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.pdb
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll.config
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.xml
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csprojAssemblyReference.cache
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CoreCompileInputs.cache
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CopyComplete
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack_V1.0\ProjectTrackApp_DotNet_V1.0\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll.config
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.pdb
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll.config
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.xml
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csprojAssemblyReference.cache
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CoreCompileInputs.cache
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CopyComplete
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.dll
+D:\ProjectTrackApplication\DevVersion\ProjectTrack\ProjectTrackApp_DotNet\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll.config
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.dll
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.Repository.pdb
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.dll
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.pdb
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\AccountTracking.DataAccess.dll.config
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.xml
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csprojAssemblyReference.cache
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CoreCompileInputs.cache
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.csproj.CopyComplete
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.dll
+D:\ProjectTrackApplication\ProdVersion\ProjectTrack_V1.2\ProjectTrackApp_DotNet_V1.2\AccountTracking\AccountTracking.Repository\obj\Debug\AccountTracking.Repository.pdb
