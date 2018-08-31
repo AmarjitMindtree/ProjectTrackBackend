@@ -136,7 +136,7 @@ namespace AccountTracking.BusinessLayer
                 var  lastDetail = taskDetailsBEMapper.Convert(taskDetailRepository.Find(expression).Reverse().First());
                 return lastDetail;
             }
-            catch(Exception ex)
+            catch(Exception)
             {
                 return null;
             }
